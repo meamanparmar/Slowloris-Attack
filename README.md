@@ -1,7 +1,7 @@
 # DOS_Prevention---Project-Exhibition-1
  <h1>#Team-Mates</h1>
 
-<h3>1.Goldy Gour</h3>
-<h3>2.Chinmay Chougule</h3>
-<h3>3.Harshwardhan Niture</h3>
-<h3>4.Rohit Bhat</h3>
+<h3>1.Aman Parmar</h3>
+<h3>2.Mahee Pravindra</h3>
+<h3>3.Krishna Rajesh</h3>
+<h3>4.Aman Kumar</h3>
